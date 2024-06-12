@@ -1,0 +1,26 @@
+.style-1{
+    font-zize:20px;
+    color:#333;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+.style-2{
+    font-size:16px;
+    font-color:#555;
+    font-style:italic;
+}
+.style-3{
+    font-size:18px;
+    font-color:#777;
+    text-decoration:underlin;
+}
+.style-4{
+    font-size:24px;
+    font-color:#444;
+    text-transform:capitalize;
+}
+.style-5{
+    font-size:22px;
+    font-color:#666;
+    text-align:justify;
+}
